@@ -1,1 +1,1 @@
-# cureya-task-2
+# Diabetes prediction using Machine Learning
